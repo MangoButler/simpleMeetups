@@ -1,0 +1,16 @@
+.errorAlert {
+    margin: 1.5rem auto;
+    text-align: center;
+}
+
+.errorAlert button {
+    font: inherit;
+    cursor: pointer;
+    background-color: #E63946;
+    color: #F1FAEE;
+    padding: 0.5rem 1.5rem;
+    border: 1px solid #E63946;
+    border-radius: 4px;
+    font-weight: bold;
+    margin: auto;
+}
